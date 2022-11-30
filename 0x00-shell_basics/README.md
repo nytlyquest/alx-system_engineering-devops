@@ -6,4 +6,5 @@ Shell basics
 **4-listmorefiles** long format list including hidden files and directories
 **5-listfilesdigitonly** long format list displaying user and group IDs numerically  
 **6-firstdirectory** creates a directory in /tmp  
-**7-movethatfile** moves a file into a directory
+**7-movethatfile** moves a file into a directory  
+**8-firstdelete** delets a file in a directory
