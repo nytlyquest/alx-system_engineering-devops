@@ -7,4 +7,5 @@ Shell basics
 **5-listfilesdigitonly** long format list displaying user and group IDs numerically  
 **6-firstdirectory** creates a directory in /tmp  
 **7-movethatfile** moves a file into a directory  
-**8-firstdelete** delets a file in a directory
+**8-firstdelete** deletes a file in a directory  
+**9-firstdirdeletion** deletes an empty directory
