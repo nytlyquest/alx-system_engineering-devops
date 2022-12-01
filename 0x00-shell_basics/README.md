@@ -1,4 +1,4 @@
-Shell basics  
+##Shell basics  
 **0-current_working_directory** prints absolute path of current directory  
 **1-listit** lists the content of the current directory  
 **2-bring_me_home** changes current directory to user's home  
@@ -12,3 +12,4 @@ Shell basics
 **11-lists** long format list of content in multiple directories  
 **12-file_type** displays the type of file  
 **13-symbolic_link** creates a symbolic link  
+**14-copy_html** copies all html files from current to parent directory if they do not exist or a newer
