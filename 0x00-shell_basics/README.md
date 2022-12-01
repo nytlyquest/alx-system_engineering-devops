@@ -8,4 +8,5 @@ Shell basics
 **6-firstdirectory** creates a directory in /tmp  
 **7-movethatfile** moves a file into a directory  
 **8-firstdelete** deletes a file in a directory  
-**9-firstdirdeletion** deletes an empty directory
+**9-firstdirdeletion** deletes an empty directory  
+**11-lists** long format list of content in multiple directories
