@@ -7,4 +7,4 @@ Shell Permissions
 **5-execute** adds execute permission to the owner of a file  
 **6-multiple_permissions** adds multiple permission to a file  
 **7-everybody** grants execution permission to everyone  
-
+**8-James_Bond** removes user and group permissions and gives other users all permissions
