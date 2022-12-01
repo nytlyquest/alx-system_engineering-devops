@@ -8,5 +8,6 @@ Shell Permissions
 **6-multiple_permissions** adds multiple permission to a file  
 **7-everybody** grants execution permission to everyone  
 **8-James_Bond** removes user and group permissions and gives other users all permissions  
-**9-John_Doe** grants user all permissions, group read and execute, and others write and execute permissions
-**10-mirror_permissions** mirrors one file permission for another
+**9-John_Doe** grants user all permissions, group read and execute, and others write and execute permissions  
+**10-mirror_permissions** mirrors one file permission for another  
+**11-directories_permissions** grants execute permissions for only subdirectories in working directory  
