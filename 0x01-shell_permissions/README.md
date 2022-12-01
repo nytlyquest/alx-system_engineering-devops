@@ -14,6 +14,6 @@ Shell Permissions
 **12-directory_permissions** creates a directory with specific permissions  
 **13-change_group** changes group owner of a file  
 **100-change_owner_and_group** changes both user and group owners of a file  
-**101-symbolic_link_permissions**
-**102-if_only**
-**103-Star_Wars**
+**101-symbolic_link_permissions** changes both user and group owners of a symbolic link  
+**102-if_only**  
+**103-Star_Wars**  
