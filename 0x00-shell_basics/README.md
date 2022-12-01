@@ -10,4 +10,5 @@ Shell basics
 **8-firstdelete** deletes a file in a directory  
 **9-firstdirdeletion** deletes an empty directory  
 **11-lists** long format list of content in multiple directories  
-**12-file_type** displays the type of file
+**12-file_type** displays the type of file  
+**13-symbolic_link** creates a symbolic link  
