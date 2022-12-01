@@ -15,5 +15,5 @@ Shell Permissions
 **13-change_group** changes group owner of a file  
 **100-change_owner_and_group** changes both user and group owners of a file  
 **101-symbolic_link_permissions** changes both user and group owners of a symbolic link  
-**102-if_only**  
+**102-if_only** changes a user owner of a file provided current owner is equal to the specified one   
 **103-Star_Wars**  
