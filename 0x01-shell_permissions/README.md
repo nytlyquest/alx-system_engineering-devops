@@ -4,3 +4,4 @@ Shell Permissions
 **2-groups** prints all groups for current user  
 **3-new_owner** changes a file ownership   
 **4-empty** creates an empty file  
+**5-execute** adds execute permission to the owner of a file
