@@ -6,3 +6,5 @@ Shell Permissions
 **4-empty** creates an empty file  
 **5-execute** adds execute permission to the owner of a file  
 **6-multiple_permissions** adds multiple permission to a file  
+**7-everybody** grants execution permission to everyone  
+
