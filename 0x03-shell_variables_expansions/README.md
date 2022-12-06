@@ -8,8 +8,8 @@ Shell, Init Files, Variables and Expansions
 **6-create_local_variable** creates a local variable  
 **7-create_global_variable** creates a global variable  
 **8-true_knowledge** prints the sum of a global variable and an integer  
-****
-****
+**9-divide_and_rule** prints the result of dividing one global variable by another  
+**10-love_exponent_breath** prints a global variable raised to another variable
 ****
 ****
 ****
