@@ -4,8 +4,8 @@ Shell, Init Files, Variables and Expansions
 **2-path** adds a directory to the end of $PATH temporarily  
 **3-paths**  
 **4-global_variables** lists environmental variables  
-****
-****
+**5-local_variables** lists all local and environmental variable, and functions   
+**6-create_local_variable** creates a local variable
 ****
 ****
 ****
