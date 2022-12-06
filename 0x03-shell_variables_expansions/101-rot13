@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $1 | tr 'a-zA-Z' 'n-za-mN-ZA-N' | tr 'n-za-mN-ZA-N' 'a-zA-Z'
+echo $1 | tr 'a-zA-Z' 'n-za-mN-ZA-N' | xargs echo | tr 'a-zA-Z' 'n-za-mN-ZA-N'
